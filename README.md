@@ -21,7 +21,7 @@ This project aims to enhance the content recommendation algorithm for a leading 
 
 ### 2. Optimized Algorithm Performance
 #### a. Real-Time Processing
-Parallel Processing: Implement parallel processing techniques to distribute the computational load across multiple CPUs or cores, enhancing performance during peak usage.
+- Parallel Processing: Implement parallel processing techniques to distribute the computational load across multiple CPUs or cores, enhancing performance during peak usage.
 
 ### 3. Ensuring Content Diversity
 #### a. Diversified Recommendation Algorithms
