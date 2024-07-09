@@ -40,7 +40,7 @@ Fairness Metrics: Implement fairness metrics to detect and quantify biases in th
 
 **By implementing these strategies, the social media platform can significantly enhance its content recommendation system, driving user engagement and satisfaction while maintaining fairness and diversity in content exposure.**
 
-## Contact
+## Contacts
 
 - **Email**: [roshanraj2311@gmail.com](mailto:roshanraj2311@gmail.com)
 - **LinkedIn**: [Roshan Raj](edin.com/in/roshan-raj-22027b228/)
