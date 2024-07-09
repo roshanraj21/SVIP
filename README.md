@@ -4,10 +4,10 @@
 This project aims to enhance the content recommendation algorithm for a leading social media platform. The primary goals are to improve user satisfaction, increase time spent on the platform, and foster a more active and engaged user community. The key areas of focus include understanding user behavior, optimizing algorithm performance, ensuring content diversity, and mitigating biases.
 
 ## Objectives
-**Enhance User Behavior Analysis:** Develop methods to better understand and analyze user behavior and preferences using data analytics and machine learning techniques.
-**Improve Algorithm Performance:** Optimize the recommendation algorithm to enhance speed, accuracy, and scalability, ensuring real-time content delivery.
-**Promote Content Diversity:** Implement strategies to ensure a diverse range of content is recommended, preventing echo chambers and promoting balanced content exposure.
-**Mitigate Bias:** Apply techniques to detect and mitigate biases in the recommendation algorithm, ensuring fair and unbiased content delivery.
+- **Enhance User Behavior Analysis:** Develop methods to better understand and analyze user behavior and preferences using data analytics and machine learning techniques.
+- **Improve Algorithm Performance:** Optimize the recommendation algorithm to enhance speed, accuracy, and scalability, ensuring real-time content delivery.
+- **Promote Content Diversity:** Implement strategies to ensure a diverse range of content is recommended, preventing echo chambers and promoting balanced content exposure.
+- **Mitigate Bias:** Apply techniques to detect and mitigate biases in the recommendation algorithm, ensuring fair and unbiased content delivery.
 
 ## Implementation Details
 ### 1. Advanced User Behavior Analysis
